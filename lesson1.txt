@@ -1,0 +1,169 @@
+A -> ÁVILA
+
+B
+BA --> BACA
+BE --> BÉLICO
+BI --> BISIESTO
+BO --> BOTELLA
+BU --> BURRO
+
+C
+CA --> CABALLO
+CE --> CEBOLLA
+CI --> CILANTRO
+CO --> CONEJO
+CU --> CUÑADO
+
+D
+DA --> DÁTIL
+DE --> DETONADOR
+DI --> DIVORCIO
+DO --> DONAR
+DU --> DURO
+
+E --> EQUIVOCADO
+
+F
+FA --> FÁCIL
+FE --> FETO
+FI --> FILIPINAS
+FO --> FOLÍCULO
+FU --> FUSIÓN
+
+G
+GA --> GATO
+GE --> GEMELOS
+JE --> JETA
+GUE --> GUERRA
+GI --> GITANO
+GUI --> GUITARRA
+JI --> JIRAFA
+GO --> GOTA
+GU --> GUSANO
+
+H
+HA --> HABITUAL --> ABITUAL
+HE --> HELICÓPTERO --> ELI.
+HI --> HILO --> ILO
+HO --> HOYO --> OYO
+HU --> HÚMEDO --> ÚMEDO
+
+I --> IGUAL
+
+J
+JA --> JARRA
+JE --> JETA
+JI --> JIRAFA
+JO --> JOROBADO
+JU --> JUDÍO
+
+K
+KA --> KAMASUTRA
+KE --> KETAMA
+KI --> KILO
+KO --> KOREA
+KU --> KUNFU
+
+L
+LA --> LATINO
+LE --> LECHE
+LI --> LITERATURA
+LO --> LOGOPEDA
+LU --> LUCIÉRNAGA
+LUZ -- SINGULAR
+LUCES -> PLURAL
+
+M
+MA --> MATEMÁTICAS
+ME --> METEORITO
+MI --> MIÉRCOLES
+MO --> MOCHILA
+MU --> MÚSICA
+
+N
+NA --> NATILLAS
+NE --> NEGRO
+NI --> NIÁGARA
+NO --> NOCHE
+NU --> NUBE
+
+Ñ
+ÑA --> PIRAÑA
+ÑE --> MUÑECO
+ÑI --> CAÑI
+ÑO --> CAÑO
+ÑU --> ÑU
+
+O --> ORENSE
+
+P
+PA --> PALABRA
+PE --> PERA
+PI --> PIÑATA
+PO --> POLLO
+PU --> PURO
+
+Q
+QA --> DOESNT EXIST
+QE --> DOESNT EXIST
+QUE --> QUESO
+QI --> DOESNT EXIST
+QUI --> QUIMERA
+QU --> DOESNT EXITS
+
+
+R
+RA --> RADIO
+RE --> RELOJ
+RI --> RÍO
+RO --> ROMA
+RU --> RUMANO
+
+S
+SA --> SAPO
+SE --> SEVILLA
+SI --> SÍLABA
+SO --> SOLAMENTE
+SU --> SUELO
+
+T
+TA --> TALADRO
+TE --> TELETRABAJO
+TI --> TIERRA
+TO --> TORO
+TU --> TUBERÍA
+
+V
+VA --> VALLADOLID
+VE --> VENECIA
+VI --> VILLA
+VO --> VOLCAN
+VU --> VUDÚ
+
+W
+WA -->
+WE --> WEB
+WI -->
+WO -->
+WU -->
+
+X
+XA --> XABARÍN (galician wild pig)
+XE --> XELADO (galician icre cream)
+XI --> XILÓFONO
+XO --> XOIA (galician jewel)
+XU --> XURXO (george name galician)
+
+Y
+YA --> YATE
+YE --> YEGUA
+YI --> YIHADISMO
+YO --> YO (me)
+YU --> YUCA
+
+Z
+ZA --> ZAPATO
+ZE --> ZETA
+ZI -->
+ZO --> ZORRO
+ZU --> ZURRAR (hit someone)
