@@ -155,7 +155,7 @@ NÓRDICO
 ÑE --> MUÑECO
 ÑI --> CAÑI
 ÑO --> CAÑO
-ÑU --> ÑU
+ÑU --> ÑÚ
 
 O --> ORENSE
 
